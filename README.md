@@ -1,2 +1,2 @@
 # Linux期末大作业
-安装docker和docker compose，使用docker compose搭建web环境，并编写示例网站，测试搭建的web环境是否可以正常运行
+利用 socket 技术编写 C 语言程序，实现两台Linux之间的信息传递。
